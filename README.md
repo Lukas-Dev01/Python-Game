@@ -7,4 +7,5 @@ I highly recommend Pygame for anyone interested in game development using Python
 How to try it out:
 
 1. Download it or Clone it.
-2. RUN it.
+2. RUN Pygame.py
+3. Play.
