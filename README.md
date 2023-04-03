@@ -8,4 +8,4 @@ How to try it out:
 
 1. Download it or Clone it.
 2. RUN Pygame.py
-3. Play.
+3. Enjoy.
