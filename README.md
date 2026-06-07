@@ -40,7 +40,7 @@ python -m pip install pygame
 Open a terminal in the project folder:
 
 ```powershell
-cd Python-Game
+cd Pygame-Platformer
 ```
 
 Then launch the game:
@@ -69,7 +69,7 @@ Make sure you run the command from the project folder. The game loads images fro
 ## Project Structure
 
 ```text
-Python-Game/
+Pygame-Platformer/
 |-- Pygame.py
 |-- README.md
 |-- preview.png
